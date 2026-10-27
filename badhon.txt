@@ -1,3 +1,0 @@
-This is a test file with a spelling error.
-File name corrected successfully
-File name corrected successfully
